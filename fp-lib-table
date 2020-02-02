@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Make717-kicad-inverted)(type KiCad)(uri "$(KIPRJMOD)/Make717-kicad-inverted.pretty")(options "")(descr ""))
+  (lib (name myparts)(type KiCad)(uri ${KIPRJMOD}/myparts.pretty)(options "")(descr ""))
+  (lib (name linx-bat-hld-001)(type KiCad)(uri ${KIPRJMOD}/linx-bat-hld-001.pretty)(options "")(descr ""))
+)
